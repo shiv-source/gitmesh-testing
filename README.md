@@ -10,3 +10,7 @@ and stable so checked-in API fixtures stay meaningful.
 - `docs/guide.md` — a short guide
 - `src/` — a tiny Go program
 - `assets/data.txt` — deterministic sample data
+
+## Branch changes
+
+The `feature/update-readme` branch adds this section and `docs/changes.md`.
